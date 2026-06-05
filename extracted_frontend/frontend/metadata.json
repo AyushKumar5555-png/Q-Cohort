@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Trial Optimizer",
+  "description": "An AI-powered clinical trial optimization platform featuring quantum-simulated cohort stratification, real-time trial modeling, and compliance compilers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

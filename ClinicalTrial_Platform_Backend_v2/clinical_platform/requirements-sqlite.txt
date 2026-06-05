@@ -1,0 +1,24 @@
+# ─── Core API — fully unpinned for Python 3.14 compatibility ─────────────────
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.10.0
+python-dotenv>=1.0.1
+
+# ─── Database (SQLite works out of the box — no Postgres needed) ──────────────
+sqlalchemy>=2.0.30
+
+# ─── AI / ML ─────────────────────────────────────────────────────────────────
+lifelines>=0.27.8
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5.0
+
+# ─── Optional: PostgreSQL (uncomment if you switch DATABASE_URL to postgres) ──
+# psycopg2-binary>=2.9.9
+# asyncpg>=0.29.0
+# databases>=0.9.0
+# alembic>=1.13.1
+
+# ─── Optional: Quantum optimizer (requires C build tools) ─────────────────────
+# qiskit>=1.1.0
+# qiskit-aer>=0.14.2
