@@ -65,4 +65,12 @@ To bridge physical biometric data into the cloud without intermediate Python dri
 
 ---
 
+## 👥 Team Contributions
+
+* **Pranathi** - [@pranathi0247-cyber](https://github.com/pranathi0247-cyber)
+* **T Mohammed Hussain** - [@octane786astra-beep](https://github.com/octane786astra-beep)
+* **Preeti Mantur** - [@preeti112007](https://github.com/preeti112007)
+
+---
+
 *Engineered for precision. Built for scale. © Ayush Kumar*
