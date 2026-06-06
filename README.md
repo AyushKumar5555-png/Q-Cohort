@@ -1,6 +1,6 @@
 # Q-Cohort Enterprise 🧬⚡
 
-**Architected & Hardcoded by [AyushKumar5555-png](https://github.com/AyushKumar5555-png)**
+**Architected & Hardcoded by [Ayush Kumar](https://github.com/AyushKumar5555-png)**
 
 Q-Cohort is an elite, enterprise-grade Clinical Trial Optimization platform designed to securely ingest, analyze, and optimize massive genomic datasets (TCGA-BRCA). By combining a custom-built hardware-layer IoT bridge, an FDA-compliant Domain-Specific Language (DSL) compiler, and a highly advanced Quantum QUBO cohort optimizer, Q-Cohort dramatically accelerates clinical trial matching while ensuring absolute regulatory compliance.
 
